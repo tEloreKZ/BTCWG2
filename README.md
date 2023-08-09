@@ -30,4 +30,4 @@
 >   <img alt="Инфорация" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
 > </picture><br>
 >
-> Данное приложение сделанно в учебных целях автора, в свободное время © 2023
+> Данное приложение сделанно в учебных целях автора, в свободное время © tEloreKZ | 2023
